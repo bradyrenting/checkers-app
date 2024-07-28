@@ -1,4 +1,4 @@
-import { Piece, Player, Position, x, y } from "@/types";
+import { Piece, Player, Position, x } from "@/types";
 
 export const addPieces = (
   pieces: Piece[],
